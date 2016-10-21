@@ -95,3 +95,31 @@ header {
     font-size: .8em;
     margin-right: 5%;
 }
+.content-bg{
+    background:#fff;
+}
+.text{
+    margin-top: 20%;
+    text-align: center;
+}
+.text3{
+    text-align: center;
+    margin-top: 10px;
+}
+.text3 h2{
+    font-size: 1.2em;
+}
+.text3 p{
+    font-size:.8em;
+}
+.text3 p img{
+    margin: 0 auto;
+    width: 40%;
+}
+.text3 p b{
+    font-size: .8em;
+    color: #83BAF7;
+}
+.red{
+    color: #f00;
+}
